@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emmanuellelepaix.fr/precache-manifest.a6dac01c08e599624d5ebc367b70ae8b.js"
+  "/emmanuellelepaix.fr/precache-manifest.752970de0c323f724f0e782da7ebdb8a.js"
 );
 
 self.addEventListener('message', (event) => {

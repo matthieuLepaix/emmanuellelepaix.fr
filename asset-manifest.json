@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/emmanuellelepaix.fr/static/css/main.d52973e1.chunk.css",
-    "main.js": "/emmanuellelepaix.fr/static/js/main.8461a2aa.chunk.js",
-    "main.js.map": "/emmanuellelepaix.fr/static/js/main.8461a2aa.chunk.js.map",
+    "main.js": "/emmanuellelepaix.fr/static/js/main.f20681b5.chunk.js",
+    "main.js.map": "/emmanuellelepaix.fr/static/js/main.f20681b5.chunk.js.map",
     "runtime-main.js": "/emmanuellelepaix.fr/static/js/runtime-main.c8670d48.js",
     "runtime-main.js.map": "/emmanuellelepaix.fr/static/js/runtime-main.c8670d48.js.map",
-    "static/js/2.06017ba5.chunk.js": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js",
-    "static/js/2.06017ba5.chunk.js.map": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js.map",
+    "static/js/2.8cf1f01a.chunk.js": "/emmanuellelepaix.fr/static/js/2.8cf1f01a.chunk.js",
+    "static/js/2.8cf1f01a.chunk.js.map": "/emmanuellelepaix.fr/static/js/2.8cf1f01a.chunk.js.map",
     "index.html": "/emmanuellelepaix.fr/index.html",
-    "precache-manifest.a6dac01c08e599624d5ebc367b70ae8b.js": "/emmanuellelepaix.fr/precache-manifest.a6dac01c08e599624d5ebc367b70ae8b.js",
+    "precache-manifest.752970de0c323f724f0e782da7ebdb8a.js": "/emmanuellelepaix.fr/precache-manifest.752970de0c323f724f0e782da7ebdb8a.js",
     "service-worker.js": "/emmanuellelepaix.fr/service-worker.js",
     "static/css/main.d52973e1.chunk.css.map": "/emmanuellelepaix.fr/static/css/main.d52973e1.chunk.css.map",
-    "static/js/2.06017ba5.chunk.js.LICENSE.txt": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js.LICENSE.txt",
+    "static/js/2.8cf1f01a.chunk.js.LICENSE.txt": "/emmanuellelepaix.fr/static/js/2.8cf1f01a.chunk.js.LICENSE.txt",
     "static/media/cross.d481beee.svg": "/emmanuellelepaix.fr/static/media/cross.d481beee.svg",
     "static/media/hero.jpg": "/emmanuellelepaix.fr/static/media/hero.c7e18779.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8670d48.js",
-    "static/js/2.06017ba5.chunk.js",
+    "static/js/2.8cf1f01a.chunk.js",
     "static/css/main.d52973e1.chunk.css",
-    "static/js/main.8461a2aa.chunk.js"
+    "static/js/main.f20681b5.chunk.js"
   ]
 }
