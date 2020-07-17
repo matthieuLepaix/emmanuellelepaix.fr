@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emmanuellelepaix.fr/static/css/main.843892a3.chunk.css",
+    "main.js": "/emmanuellelepaix.fr/static/js/main.0657ee96.chunk.js",
+    "main.js.map": "/emmanuellelepaix.fr/static/js/main.0657ee96.chunk.js.map",
+    "runtime-main.js": "/emmanuellelepaix.fr/static/js/runtime-main.c8670d48.js",
+    "runtime-main.js.map": "/emmanuellelepaix.fr/static/js/runtime-main.c8670d48.js.map",
+    "static/js/2.31d3f634.chunk.js": "/emmanuellelepaix.fr/static/js/2.31d3f634.chunk.js",
+    "static/js/2.31d3f634.chunk.js.map": "/emmanuellelepaix.fr/static/js/2.31d3f634.chunk.js.map",
+    "index.html": "/emmanuellelepaix.fr/index.html",
+    "precache-manifest.7e9058eb5dc6e7ffb5931896ba19a93b.js": "/emmanuellelepaix.fr/precache-manifest.7e9058eb5dc6e7ffb5931896ba19a93b.js",
+    "service-worker.js": "/emmanuellelepaix.fr/service-worker.js",
+    "static/css/main.843892a3.chunk.css.map": "/emmanuellelepaix.fr/static/css/main.843892a3.chunk.css.map",
+    "static/js/2.31d3f634.chunk.js.LICENSE.txt": "/emmanuellelepaix.fr/static/js/2.31d3f634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8670d48.js",
+    "static/js/2.31d3f634.chunk.js",
+    "static/css/main.843892a3.chunk.css",
+    "static/js/main.0657ee96.chunk.js"
+  ]
+}
