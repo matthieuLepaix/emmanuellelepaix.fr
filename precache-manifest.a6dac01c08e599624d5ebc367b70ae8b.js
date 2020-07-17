@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be864733f7b2b2ec6fee7f27616f0e22",
+    "revision": "6f57623e8508aa1a97fe4bb2e5f04a42",
     "url": "/emmanuellelepaix.fr/index.html"
   },
   {
-    "revision": "cb0c94e216a137103d96",
+    "revision": "d48b95dd2399a1a2e771",
     "url": "/emmanuellelepaix.fr/static/css/main.d52973e1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb0c94e216a137103d96",
-    "url": "/emmanuellelepaix.fr/static/js/main.0471e3a9.chunk.js"
+    "revision": "d48b95dd2399a1a2e771",
+    "url": "/emmanuellelepaix.fr/static/js/main.8461a2aa.chunk.js"
   },
   {
     "revision": "466221b33c0643cbdf85",
