@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/emmanuellelepaix.fr/static/css/main.843892a3.chunk.css",
-    "main.js": "/emmanuellelepaix.fr/static/js/main.0657ee96.chunk.js",
-    "main.js.map": "/emmanuellelepaix.fr/static/js/main.0657ee96.chunk.js.map",
+    "main.css": "/emmanuellelepaix.fr/static/css/main.d52973e1.chunk.css",
+    "main.js": "/emmanuellelepaix.fr/static/js/main.0471e3a9.chunk.js",
+    "main.js.map": "/emmanuellelepaix.fr/static/js/main.0471e3a9.chunk.js.map",
     "runtime-main.js": "/emmanuellelepaix.fr/static/js/runtime-main.c8670d48.js",
     "runtime-main.js.map": "/emmanuellelepaix.fr/static/js/runtime-main.c8670d48.js.map",
-    "static/js/2.31d3f634.chunk.js": "/emmanuellelepaix.fr/static/js/2.31d3f634.chunk.js",
-    "static/js/2.31d3f634.chunk.js.map": "/emmanuellelepaix.fr/static/js/2.31d3f634.chunk.js.map",
+    "static/js/2.06017ba5.chunk.js": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js",
+    "static/js/2.06017ba5.chunk.js.map": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js.map",
     "index.html": "/emmanuellelepaix.fr/index.html",
-    "precache-manifest.7e9058eb5dc6e7ffb5931896ba19a93b.js": "/emmanuellelepaix.fr/precache-manifest.7e9058eb5dc6e7ffb5931896ba19a93b.js",
+    "precache-manifest.b93f387390c382f5f316547674b32214.js": "/emmanuellelepaix.fr/precache-manifest.b93f387390c382f5f316547674b32214.js",
     "service-worker.js": "/emmanuellelepaix.fr/service-worker.js",
-    "static/css/main.843892a3.chunk.css.map": "/emmanuellelepaix.fr/static/css/main.843892a3.chunk.css.map",
-    "static/js/2.31d3f634.chunk.js.LICENSE.txt": "/emmanuellelepaix.fr/static/js/2.31d3f634.chunk.js.LICENSE.txt"
+    "static/css/main.d52973e1.chunk.css.map": "/emmanuellelepaix.fr/static/css/main.d52973e1.chunk.css.map",
+    "static/js/2.06017ba5.chunk.js.LICENSE.txt": "/emmanuellelepaix.fr/static/js/2.06017ba5.chunk.js.LICENSE.txt",
+    "static/media/cross.d481beee.svg": "/emmanuellelepaix.fr/static/media/cross.d481beee.svg",
+    "static/media/hero.jpg": "/emmanuellelepaix.fr/static/media/hero.c7e18779.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8670d48.js",
-    "static/js/2.31d3f634.chunk.js",
-    "static/css/main.843892a3.chunk.css",
-    "static/js/main.0657ee96.chunk.js"
+    "static/js/2.06017ba5.chunk.js",
+    "static/css/main.d52973e1.chunk.css",
+    "static/js/main.0471e3a9.chunk.js"
   ]
 }
