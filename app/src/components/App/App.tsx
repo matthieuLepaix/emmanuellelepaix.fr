@@ -1,32 +1,61 @@
-import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import './App.scss';
-import { About } from '../Pages/About';
-import { Home } from '../Pages/Home';
+import React, { useState } from 'react';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
+import styled from 'styled-components';
+
 import { Header } from '../Header';
 import { Footer } from '../Footer';
-import { Accomodations } from '../Pages/Accomodations';
-import styled from 'styled-components';
-import { Flex } from '../shared/Flex';
+import {
+  Articles,
+  Bio,
+  Contact,
+  Home,
+  Prices,
+  MoreInfos,
+  Aromatherapy,
+  Phytotherapy,
+} from '../Pages';
+import { Flex, Overlay } from '../shared';
 
 const Main = styled(Flex)`
-  height: calc(100vh - 10rem);
+  min-height: calc(100vh - 10rem);
 `;
 
 export function App() {
+  const [mobileNavigation, setMobileNavigation] = useState({ open: false });
   return (
-    <Router>
-      <Header />
+    <Router basename="/">
+      {mobileNavigation.open && (
+        <Overlay onClick={() => setMobileNavigation({ open: false })} />
+      )}
+      <Header
+        mobileNavigation={mobileNavigation}
+        setMobileNavigation={setMobileNavigation}
+      />
       <Main>
         <Switch>
+          <Route exact path="/bio">
+            <Bio />
+          </Route>
+          <Route exact path="/aromatherapy">
+            <Aromatherapy />
+          </Route>
+          <Route exact path="/phytotherapy">
+            <Phytotherapy />
+          </Route>
+          <Route exact path="/prices">
+            <Prices />
+          </Route>
+          <Route exact path="/articles">
+            <Articles />
+          </Route>
+          <Route exact path="/more-info">
+            <MoreInfos />
+          </Route>
+          <Route exact path="/contact">
+            <Contact />
+          </Route>
           <Route exact path="/">
             <Home />
-          </Route>
-          <Route path="/accomodations">
-            <Accomodations />
-          </Route>
-          <Route path="/about">
-            <About />
           </Route>
         </Switch>
       </Main>

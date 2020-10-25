@@ -1,8 +1,12 @@
 {
     "navs": {
         "home": "Accueil",
-        "news": "Actualités",
-        "accomodations": "Hébergements",
-        "about": "À propos"
+        "bio": "Biographie",
+        "aromatherapy": "L'aromathérapie",
+        "phytotherapy": "La Phytothérapie",
+        "prices": "Formules et tarifs",
+        "articles": "Articles",
+        "more-info": "En savoir plus",
+        "contact": "Contact"
     }
 }

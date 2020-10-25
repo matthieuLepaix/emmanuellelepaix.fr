@@ -1,0 +1,13 @@
+{
+    "firstname": "Emmanuelle",
+    "lastname": "Lepaix",
+    "phone": {
+        "brut": "+33689617289",
+        "formatted": "06-89-61-72-89"
+    },
+    "email": "emmanuellelpx@gmail.com",
+    "instagram": {
+        "link": "https://www.instagram.com/emmanuellellp",
+        "username": "emmanuellellp"
+    }
+}

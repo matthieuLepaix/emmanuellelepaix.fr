@@ -4,16 +4,32 @@
             "key": "home"
         },
         {
-            "to": "/accomodations",
-            "key": "accomodations"
+            "to": "/bio",
+            "key": "bio"
         },
         {
-            "to": "/news",
-            "key": "news"
+            "to": "/phytotherapy",
+            "key": "phytotherapy"
         },
         {
-            "to": "/about",
-            "key": "about"
+            "to": "/aromatherapy",
+            "key": "aromatherapy"
+        },
+        {
+            "to": "/prices",
+            "key": "prices"
+        },
+        {
+            "to": "/articles",
+            "key": "articles"
+        },
+        {
+            "to": "/more-info",
+            "key": "more-info"
+        },
+        {
+            "to": "/contact",
+            "key": "contact"
         }
     ]
 }
