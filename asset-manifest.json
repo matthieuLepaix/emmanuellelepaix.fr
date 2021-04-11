@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emmanuellelepaix.fr/static/css/main.729cbc62.chunk.css",
-    "main.js": "/emmanuellelepaix.fr/static/js/main.07062f41.chunk.js",
-    "main.js.map": "/emmanuellelepaix.fr/static/js/main.07062f41.chunk.js.map",
+    "main.js": "/emmanuellelepaix.fr/static/js/main.bf37109d.chunk.js",
+    "main.js.map": "/emmanuellelepaix.fr/static/js/main.bf37109d.chunk.js.map",
     "runtime-main.js": "/emmanuellelepaix.fr/static/js/runtime-main.67b191ae.js",
     "runtime-main.js.map": "/emmanuellelepaix.fr/static/js/runtime-main.67b191ae.js.map",
     "static/js/2.05fef2b4.chunk.js": "/emmanuellelepaix.fr/static/js/2.05fef2b4.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.67b191ae.js",
     "static/js/2.05fef2b4.chunk.js",
     "static/css/main.729cbc62.chunk.css",
-    "static/js/main.07062f41.chunk.js"
+    "static/js/main.bf37109d.chunk.js"
   ]
 }
